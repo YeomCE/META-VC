@@ -192,13 +192,13 @@ footer .kakao a img{
 
 
 footer button {
-  display: black;
+  display: block;
   width: 8%;
+  height: 30px;
   font-size: 12px;
   background: #fff;
   border: none;
   border-radius: 20px;
-  padding: 10px;
   outline: none;
   margin: 0 2%!important;
   cursor: pointer;
